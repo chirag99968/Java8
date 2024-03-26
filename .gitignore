@@ -1,0 +1,37 @@
+/.metadata/
+
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# Spring Boot
+*.iml
+.idea
+target/
+bin/
+build/
+!src/main/resources/application.properties
+
+# Logs
+*.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
